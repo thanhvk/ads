@@ -1,0 +1,24 @@
+{
+  "trending": {
+    "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE"
+  },
+  "promoted": [
+    {
+      "address": "A3HyGZqe451CBesNqieNPfJ4A9Mu332ui8ni6dobVSLB"
+    },
+    {
+      "address": "seedEDBqu63tJ7PFqvcbwvThrYUkQeqT6NLf81kLibs"
+    },
+    {
+      "address": "AkhdZGVbJXPuQZ53u2LrimCjkRP6ZyxG1SoM85T98eE1"
+    }
+  ],
+  "side-ads1": {
+    "banner": "https://media0.giphy.com/media/IedTLY3sNu1SmZoPTD/giphy.gif?cid=ecf05e47anznxa3ynmt6dfkxx4dhejoln3803fuif1tkh5ic&rid=giphy.gif&ct=g",
+    "link": "https://giphy.com/"
+  },
+  "side-ads2": {
+    "banner": "https://i.giphy.com/media/S3n6idriKtiFbZyqve/giphy.webp",
+    "link": "https://giphy.com/"
+  }
+}
